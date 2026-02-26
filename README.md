@@ -13,8 +13,26 @@
 
 ### 📫 Reach Me
 - ✉️ Email: **althafrazan70@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/razan althaf
-- 📸 Instagram: https://instagram.com/rrazn__
+
+---
+
+### 🤝 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/razan althaf" target="blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="razan althaf"
+       height="30"
+       width="40" />
+</a>
+<a href="https://instagram.com/rrazn__" target="blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+       alt="rrazn__"
+       height="30"
+       width="40" />
+</a>
+</p>
 
 ---
 
