@@ -6,7 +6,7 @@
 ### 🚀 About Me
 - 🌱 Currently focusing on **Fullstack JavaScript Development**
 - 💻 Tech stack: **MERN-style (Next.js + Express + MongoDB)**
-- 🎯 Interested in scalable web architecture & clean code oke berantakin sekali lagi
+- 🎯 Interested in scalable web architecture & clean code
 - ⚡ Fun fact: *I like coding… as long as it compiles 😄*
 
 ---
