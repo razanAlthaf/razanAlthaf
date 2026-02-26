@@ -14,7 +14,7 @@
 ### 📫 Reach Me
 - ✉️ Email: **althafrazan70@gmail.com**
 - 💼 LinkedIn: https://linkedin.com/in/razan althaf
-- 📸 Instagram: https://instagram.com/rrazn_20
+- 📸 Instagram: https://instagram.com/rrazn__
 
 ---
 
